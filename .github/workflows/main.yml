@@ -1,4 +1,4 @@
-name: deploy Nobitanosukuzi
+name: deploy guidetourdevisit
 
 on:
   push:
